@@ -1,4 +1,4 @@
-# B-W-to-Color
+# B&W-to-Color
 A program which can colour black and white (grey) images. 
 
 Converting images from grey scale to RGB is not a simple procedure because a single grayscale image may correspond to many plausible colored images. Here, we are using a auto-encoder (deep neural network) to achieve this task. 
